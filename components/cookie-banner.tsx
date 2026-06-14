@@ -48,7 +48,7 @@ export function CookieBanner() {
               onClick={accept}
               className="flex-1 rounded-md border border-border px-5 py-2.5 text-sm font-semibold text-foreground transition-colors hover:bg-accent sm:flex-none"
             >
-              Einstellungen
+              Ablehnen
             </button>
           </div>
         </div>
