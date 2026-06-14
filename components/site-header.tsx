@@ -67,7 +67,7 @@ export function SiteHeader({ active, onNavigate }: SiteHeaderProps) {
             </button>
           ))}
           <a
-            href="tel:+4940000000"
+            href="tel:+4915141261888"
             className="ml-3 flex h-10 w-10 items-center justify-center rounded-md bg-white text-[#0A192F] transition-opacity hover:opacity-90"
             aria-label="Anrufen"
           >
@@ -112,7 +112,7 @@ export function SiteHeader({ active, onNavigate }: SiteHeaderProps) {
           </nav>
           <div className="mt-auto border-t border-white/10 p-4">
             <a
-              href="tel:+4940000000"
+              href="tel:+4915141261888"
               className="flex w-full items-center justify-center gap-2 rounded-md bg-white px-6 py-3.5 text-sm font-semibold text-[#0A192F]"
             >
               <Phone className="h-4 w-4" />
